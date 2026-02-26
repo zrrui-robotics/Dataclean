@@ -1,0 +1,2335 @@
+{
+  "num_trajectories": 10,
+  "metrics_per_trajectory": [
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.22377205916366935,
+          "max_abs": 3.5705253055112043,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.06094647088043073,
+              "max_abs": 1.0997213809525022
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.07320488356235416,
+              "max_abs": 1.099403483951506
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.16723876158657533,
+              "max_abs": 0.9738526103770445
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.32821746824129094,
+              "max_abs": 2.6300099523952003
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.20250223981254195,
+              "max_abs": 0.9878039554902263
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.26759294204601064,
+              "max_abs": 2.010092119975669
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.21167522474821465,
+              "max_abs": 1.4852729988986653
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.28027486409292396,
+              "max_abs": 1.6170424099015228
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.42229567750268154,
+              "max_abs": 3.5705253055112043
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.9822463786878535,
+          "max_abs": 35.088912047958196,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.058853609472192,
+              "max_abs": 18.07323215302691
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.0438264358791456,
+              "max_abs": 15.4751241628415
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 2.1782920922889386,
+              "max_abs": 12.332249048176632
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 4.4663812976140935,
+              "max_abs": 30.59354263729838
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 2.4374765579193833,
+              "max_abs": 16.256406575641286
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 3.87826456821057,
+              "max_abs": 34.25812780713935
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 2.659009855715613,
+              "max_abs": 23.712119390143776
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.9829047453852815,
+              "max_abs": 30.651690011359285
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 5.135208245705461,
+              "max_abs": 35.088912047958196
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.12472972775069065,
+          "max_abs": 5.480000000000225,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.09044418083564178,
+              "max_abs": 5.480000000000225
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.07364175563463751,
+              "max_abs": 4.884444444444664
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.0703044681692492,
+              "max_abs": 0.36888888888911564
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.15727428496112647,
+              "max_abs": 1.2488888888893435
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.11647818637142913,
+              "max_abs": 0.4488888888892686
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.13768815078424287,
+              "max_abs": 0.7733333333348913
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.10255964149203022,
+              "max_abs": 0.4311111111112574
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.12645841571109528,
+              "max_abs": 0.5511111111111271
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.2477184657967634,
+              "max_abs": 1.0000000000023315
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.5276971349857569,
+          "max_abs": 378.9629629630393,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 3.5115685757018533,
+              "max_abs": 337.7777777777988
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 3.1776194246507,
+              "max_abs": 378.9629629630393
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.616521509634898,
+              "max_abs": 3.259259259204649
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.2298759567213375,
+              "max_abs": 12.148148148161638
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.825195742065118,
+              "max_abs": 4.148148148148339
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 1.0630773291181264,
+              "max_abs": 7.703703704122766
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.7713556787231047,
+              "max_abs": 4.148148148077186
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 1.0965074338118423,
+              "max_abs": 4.740740740875271
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.4575525644448328,
+              "max_abs": 7.999999999848166
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.052976051624177956,
+        "mean_abs_dev": 0.0034310514024577772,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.00467512471503892,
+            "mean_abs": 0.0001060955867624998
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.03397852076342476,
+            "mean_abs": 0.0008156131794009219
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.01671782468698285,
+            "mean_abs": 0.00285193617977389
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.018807953882459316,
+            "mean_abs": 0.004782178653899913
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.01484855241452726,
+            "mean_abs": 0.003402349067625394
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.022953518538217477,
+            "mean_abs": 0.004049392404304977
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.016254304913320416,
+            "mean_abs": 0.0029737014295926085
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.015581171447869746,
+            "mean_abs": 0.0042749120942681485
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.052976051624177956,
+            "mean_abs": 0.007623284026491643
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 0,
+      "source_before": "57-1.json",
+      "source_after": "57-1_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38897,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 118,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 12.701
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.2449042882697006,
+          "max_abs": 3.3716864475241044,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.05378602463223962,
+              "max_abs": 3.3716864475241044
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.03544310608390233,
+              "max_abs": 2.1529247773629536
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.22233316417782337,
+              "max_abs": 2.0261070608709626
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.3405690857885721,
+              "max_abs": 3.244751249789739
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.2852313137267914,
+              "max_abs": 2.675093586852585
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.23355489122234396,
+              "max_abs": 2.1198690499497794
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.24528639443997208,
+              "max_abs": 2.345208642274316
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.33628471922555864,
+              "max_abs": 3.019257439420166
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.4516498951301019,
+              "max_abs": 2.4944273524523486
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 3.2858931249860843,
+          "max_abs": 49.95705547985979,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.8707195382131785,
+              "max_abs": 49.95705547985979
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.5856167412982805,
+              "max_abs": 25.119438700184514
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 2.9329906186772154,
+              "max_abs": 31.844984178186927
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 4.720437227583943,
+              "max_abs": 42.4259554700682
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 3.9514505231861965,
+              "max_abs": 37.664637243598726
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 3.3745618587112074,
+              "max_abs": 34.42219833786057
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 3.0072693899078367,
+              "max_abs": 32.59944338507485
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 4.601693337870827,
+              "max_abs": 43.44680251681825
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 5.528298889426069,
+              "max_abs": 35.36153551620025
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.09880144668773318,
+          "max_abs": 7.999999999999407,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.04357093805796021,
+              "max_abs": 2.742222222222012
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.05076225793160359,
+              "max_abs": 7.999999999999407
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.08248317538799939,
+              "max_abs": 0.38222222222222335
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.12794396374125117,
+              "max_abs": 0.5066666666666416
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.09573959620931667,
+              "max_abs": 0.4177777777777765
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.10797417937097203,
+              "max_abs": 0.5022222222233637
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.08321933800302767,
+              "max_abs": 0.43999999999899686
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.10211784095594488,
+              "max_abs": 0.48888888888810783
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.19540173053152315,
+              "max_abs": 1.4311111111108148
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.4061035733259406,
+          "max_abs": 533.3333333332736,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 2.345434543454384,
+              "max_abs": 182.81481481479386
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 2.829482948294981,
+              "max_abs": 533.3333333332736
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.8859552621939836,
+              "max_abs": 5.3333333333338455
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.134213421347273,
+              "max_abs": 8.296296296452894
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 1.0388705537239282,
+              "max_abs": 5.333333333291129
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.9332599926923464,
+              "max_abs": 5.925925925915306
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.8184818481869655,
+              "max_abs": 6.814814814981012
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 1.1004767143519179,
+              "max_abs": 6.5185185184002545
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.5687568756876862,
+              "max_abs": 15.111111111084593
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.09492683956757884,
+        "mean_abs_dev": 0.012533131550731415,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.005809083097190061,
+            "mean_abs": 0.000328316382373199
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.04162756290545445,
+            "mean_abs": 0.0012295631748191933
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.03308574358975736,
+            "mean_abs": 0.006662328089736878
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.09492683956757884,
+            "mean_abs": 0.021554662028123506
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.04194316906801143,
+            "mean_abs": 0.00988252020744454
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.06410662320534888,
+            "mean_abs": 0.013270292653767836
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.08117379949207788,
+            "mean_abs": 0.014215489506012577
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.09091798016379826,
+            "mean_abs": 0.029008659310339965
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.06314514886630007,
+            "mean_abs": 0.016646352603965034
+          }
+        }
+      },
+      "removed_frames_ratio": 0.024793388429752067,
+      "trajectory_index": 1,
+      "source_before": "57-10.json",
+      "source_after": "57-10_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38889,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 121,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 12.614
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.19925637777345823,
+          "max_abs": 4.336905011470465,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.04696803532739179,
+              "max_abs": 2.073618518280466
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.023143362952341907,
+              "max_abs": 0.8434983611589644
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.1473224634459697,
+              "max_abs": 1.1573520073542203
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.37500829695016696,
+              "max_abs": 2.721277445788826
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.19654042830746235,
+              "max_abs": 1.720885035000861
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.29190784428884975,
+              "max_abs": 2.5874683561263434
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.16795978047346988,
+              "max_abs": 1.3631315396197878
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.24330036003914904,
+              "max_abs": 1.5456501749770242
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.30115682817632256,
+              "max_abs": 4.336905011470465
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.8380377970474804,
+          "max_abs": 43.34466498973832,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.808023382459569,
+              "max_abs": 42.586924150016195
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.41498363748906764,
+              "max_abs": 19.607993571545457
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.919325281876442,
+              "max_abs": 16.721892232714545
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 5.5768456275787965,
+              "max_abs": 40.521701076990496
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 2.784952462632033,
+              "max_abs": 22.6057018881292
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 3.909486644630122,
+              "max_abs": 38.543549954951516
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 2.3183705134038686,
+              "max_abs": 16.602407122164294
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.527639586380613,
+              "max_abs": 16.895038049860368
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 4.282713036976811,
+              "max_abs": 43.34466498973832
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.11711239140375705,
+          "max_abs": 2.4888888888886913,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.04767736625514514,
+              "max_abs": 2.217777777777662
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.02342716049382888,
+              "max_abs": 2.4888888888886913
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.07996049382716619,
+              "max_abs": 0.6355555555561597
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.21426831275720706,
+              "max_abs": 1.3200000000000176
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.11124279835391764,
+              "max_abs": 0.6666666666672606
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.1685991769547603,
+              "max_abs": 0.8311111111128441
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.10349958847736578,
+              "max_abs": 0.5244444444450538
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.11523292181071842,
+              "max_abs": 0.5466666666686368
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.19010370370370402,
+              "max_abs": 1.0177777777779404
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.0496879999086957,
+          "max_abs": 112.59259259254637,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.4924717001869237,
+              "max_abs": 41.77777777772358
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.1297944829103868,
+              "max_abs": 112.59259259254637
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.6457852511277824,
+              "max_abs": 6.814814814756658
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.5272007913023793,
+              "max_abs": 13.037037037083461
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.7811847455795743,
+              "max_abs": 7.111111111053515
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 1.094186174320252,
+              "max_abs": 8.296296296534944
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.5961094625819974,
+              "max_abs": 5.037037037146793
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.9491152874148984,
+              "max_abs": 5.629629629706405
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.2313441037540667,
+              "max_abs": 10.370370370405775
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.04072229419238932,
+        "mean_abs_dev": 0.0029061477054308175,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.006024664395837067,
+            "mean_abs": 6.565949839265266e-05
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.0030588430191028984,
+            "mean_abs": 4.190749675105137e-05
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.011736919608672,
+            "mean_abs": 0.002434605503345491
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.02034582422730935,
+            "mean_abs": 0.005294114466861691
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.016387375360253614,
+            "mean_abs": 0.00274100801470389
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.02127135479339115,
+            "mean_abs": 0.004163299973093398
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.012111219213534918,
+            "mean_abs": 0.002465970459072106
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.022789691537269396,
+            "mean_abs": 0.003975264322394559
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.04072229419238932,
+            "mean_abs": 0.004973499614262515
+          }
+        }
+      },
+      "removed_frames_ratio": 0.010416666666666666,
+      "trajectory_index": 2,
+      "source_before": "57-2.json",
+      "source_after": "57-2_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38890,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 96,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 10.136
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.27193122517974044,
+          "max_abs": 5.154884562448777,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.09591327647736604,
+              "max_abs": 3.1980985352214475
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.09799561330008612,
+              "max_abs": 5.154884562448777
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.22919909255441379,
+              "max_abs": 2.0064687921540263
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.27116238509152385,
+              "max_abs": 2.135064850981051
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.2731429990989839,
+              "max_abs": 1.8266939215366267
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.37446303841109074,
+              "max_abs": 2.4715104667082173
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.25084632515457317,
+              "max_abs": 1.9174221695244151
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.3889959489740929,
+              "max_abs": 2.678801017363568
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.46566234755553376,
+              "max_abs": 2.552309416789439
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 3.4307728489316323,
+          "max_abs": 65.5349859561638,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.6397581347787742,
+              "max_abs": 57.02505145377665
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.4176364788731923,
+              "max_abs": 65.5349859561638
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 2.478674591613676,
+              "max_abs": 16.90052378740849
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 3.654873496089707,
+              "max_abs": 36.10809552509497
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 2.982242817410652,
+              "max_abs": 14.343175493597961
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 5.574925884299612,
+              "max_abs": 38.27426229510123
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 2.908077488260106,
+              "max_abs": 19.727645903149106
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 5.314182741642666,
+              "max_abs": 40.96565215513744
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 4.906584007416306,
+              "max_abs": 22.472044006641973
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.1711929453262818,
+          "max_abs": 9.951111111111231,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.12749206349206738,
+              "max_abs": 9.951111111111231
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.09099047619048065,
+              "max_abs": 5.106666666666752
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.17860317460316932,
+              "max_abs": 2.3911111111137666
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.12093968253969284,
+              "max_abs": 0.5244444444444103
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.19993650793650466,
+              "max_abs": 2.0133333333354395
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.13433650793650087,
+              "max_abs": 0.5911111111108489
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.18154285714285534,
+              "max_abs": 2.0311111111134954
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.18474285714286998,
+              "max_abs": 2.111111111112467
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.3221523809523953,
+              "max_abs": 2.7777777777811243
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.9333439304881623,
+          "max_abs": 663.4074074074099,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 4.820431303979707,
+              "max_abs": 663.4074074074099
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 3.0651194828592665,
+              "max_abs": 340.4444444444473
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.1580564828079687,
+              "max_abs": 23.999999999772463
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.9961320404846165,
+              "max_abs": 5.62962962962715
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 1.1979017644300871,
+              "max_abs": 20.148148148521063
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 1.431462936489848,
+              "max_abs": 6.222222222377235
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 1.230117098505658,
+              "max_abs": 20.740740740482295
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 1.6900333810309929,
+              "max_abs": 21.62962963015862
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.8108408838053183,
+              "max_abs": 27.851851852370046
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.06177621125148776,
+        "mean_abs_dev": 0.007417687782272148,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.034353651657241656,
+            "mean_abs": 0.0009936348796998175
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.024317323253915606,
+            "mean_abs": 0.0007228803840348979
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.06177621125148776,
+            "mean_abs": 0.007455941390916474
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.04117489753337128,
+            "mean_abs": 0.009718305871518264
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.05429770373962908,
+            "mean_abs": 0.008103085253314614
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.02071463628339476,
+            "mean_abs": 0.005738758612987951
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.05711929882206829,
+            "mean_abs": 0.009949285256501768
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.05064232756900999,
+            "mean_abs": 0.011133056502034375
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.0578937966089359,
+            "mean_abs": 0.01294424188944117
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 3,
+      "source_before": "57-3.json",
+      "source_after": "57-3_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38899,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 101,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 10.679
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.20392870941510668,
+          "max_abs": 4.633898309741285,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.08129927331412712,
+              "max_abs": 3.109615336315964
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.11241554079910071,
+              "max_abs": 3.117393545827032
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.13372123876660053,
+              "max_abs": 1.5578084712018907
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.3673235399790039,
+              "max_abs": 3.6823460890584965
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.11481479810066865,
+              "max_abs": 1.2716394861899354
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.3240597616159205,
+              "max_abs": 4.633898309741285
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.13005165451024953,
+              "max_abs": 1.2882606702455721
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.23079988162559312,
+              "max_abs": 2.4845915313064464
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.3408726960246961,
+              "max_abs": 3.2006545336436694
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.8578493875381175,
+          "max_abs": 58.120277817329544,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.4988061988467645,
+              "max_abs": 58.04588412953237
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.7572394872030759,
+              "max_abs": 58.120277817329544
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.7198829794715023,
+              "max_abs": 16.777946219087358
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 5.376581703345295,
+              "max_abs": 54.28713212652065
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 1.6230777501459204,
+              "max_abs": 14.199825677190596
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 4.697386648142851,
+              "max_abs": 55.023759858607164
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 1.6565982987849879,
+              "max_abs": 18.165669188392364
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.2963542322973454,
+              "max_abs": 25.82303752553886
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 4.0947171896053165,
+              "max_abs": 30.29254609710492
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.11680384087791686,
+          "max_abs": 15.608888888887705,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.12664351851851666,
+              "max_abs": 14.959999999998866
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.135470679012344,
+              "max_abs": 15.608888888887705
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.04739197530864476,
+              "max_abs": 0.24444444444439034
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.1637345679012431,
+              "max_abs": 0.5822222222222706
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.07432098765433569,
+              "max_abs": 0.21333333333336596
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.15906635802468747,
+              "max_abs": 0.81777777777783
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.0656867283950624,
+              "max_abs": 0.24000000000007018
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.08472993827160571,
+              "max_abs": 0.288888888890169
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.19418981481481168,
+              "max_abs": 0.6888888888886755
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.565840042944937,
+          "max_abs": 999.999999999943,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 8.52766505636091,
+              "max_abs": 942.2222222221677
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 8.727600644122656,
+              "max_abs": 999.999999999943
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.5343639291487451,
+              "max_abs": 3.5555555555777056
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.2016747182016787,
+              "max_abs": 6.222222222203639
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.47665056361227276,
+              "max_abs": 2.6666666666692893
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 1.136231884061434,
+              "max_abs": 6.518518518743257
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.5286956521794889,
+              "max_abs": 2.9629629629699887
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.7760386473508695,
+              "max_abs": 3.2592592593200083
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.1836392914663725,
+              "max_abs": 5.037037037189018
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.03660620989648122,
+        "mean_abs_dev": 0.0029030714765747334,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.006958958771418288,
+            "mean_abs": 0.0001488432459114144
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.006949908859979686,
+            "mean_abs": 0.00021627202195379164
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.008598956544028896,
+            "mean_abs": 0.0017658252418000508
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.025092411608763632,
+            "mean_abs": 0.004499502880636132
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.012172152596661712,
+            "mean_abs": 0.0020599654264135694
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.03660620989648122,
+            "mean_abs": 0.005299347879489789
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.009965203327165592,
+            "mean_abs": 0.0018341843757882198
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.016625273143923813,
+            "mean_abs": 0.004022091509846291
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.034603488614351884,
+            "mean_abs": 0.006281610707333343
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 4,
+      "source_before": "57-4.json",
+      "source_after": "57-4_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38896,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 81,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 8.607
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.16949203058373583,
+          "max_abs": 2.5889557917901502,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.04365232476753656,
+              "max_abs": 1.613734770035259
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.026570035351413408,
+              "max_abs": 0.9030176167474425
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.11451959616667964,
+              "max_abs": 0.5103360705973791
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.2309085267504928,
+              "max_abs": 1.9388607084385256
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.14505154791123503,
+              "max_abs": 0.8226604593754806
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.24449882224445396,
+              "max_abs": 1.261735234339881
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.08789030966428708,
+              "max_abs": 0.5889665525410641
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.27467763206573004,
+              "max_abs": 1.3691465544617394
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.3576594803317937,
+              "max_abs": 2.5889557917901502
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.18054898414707,
+          "max_abs": 25.359603890587614,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.7268236108677154,
+              "max_abs": 20.03485331254496
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.4631142350349458,
+              "max_abs": 9.742724299534158
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.325559338622019,
+              "max_abs": 6.006613450268983
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 3.0299451126705486,
+              "max_abs": 18.990848438991293
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 1.7257626472373968,
+              "max_abs": 11.176091101096846
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 3.2198700846725066,
+              "max_abs": 16.464983815637382
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 1.061624101619606,
+              "max_abs": 8.237870546887372
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.6000495344397847,
+              "max_abs": 25.359603890587614
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 4.472192192159106,
+              "max_abs": 24.01836441659046
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.09722880240646958,
+          "max_abs": 3.084444444444485,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.05937958262831548,
+              "max_abs": 2.99111111111115
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.036788870088365906,
+              "max_abs": 3.084444444444485
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.06945666478661511,
+              "max_abs": 0.27111111111120706
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.12013536379019644,
+              "max_abs": 0.56000000000072
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.07435984207557424,
+              "max_abs": 0.31111111111130874
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.10792254183116792,
+              "max_abs": 0.5155555555565648
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.060071442000377596,
+              "max_abs": 0.36888888888887694
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.12035344989660782,
+              "max_abs": 0.4399999999993225
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.22659146456100568,
+              "max_abs": 1.0044444444440248
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.0071284090158152,
+          "max_abs": 205.62962962963064,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.92140615191487,
+              "max_abs": 199.40740740740836
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.5010671688641763,
+              "max_abs": 205.62962962963064
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.5042059008183761,
+              "max_abs": 2.6666666666675196
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.8401757689946986,
+              "max_abs": 4.740740740681364
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.6096672944144266,
+              "max_abs": 3.2592592592678113
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.8386691776646086,
+              "max_abs": 4.444444444581708
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.46854990584059075,
+              "max_abs": 3.2592592592775427
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 1.0857501569441839,
+              "max_abs": 6.2222222222804
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.2946641556864074,
+              "max_abs": 6.222222222372608
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.03790232576863095,
+        "mean_abs_dev": 0.0024928334469179908,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.0028443752357849225,
+            "mean_abs": 9.007093336862082e-05
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.0015924100841828888,
+            "mean_abs": 5.9007108802393025e-05
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.007328844780004833,
+            "mean_abs": 0.0016254891974381593
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.015328473035978174,
+            "mean_abs": 0.0036191246463689506
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.009861633716160556,
+            "mean_abs": 0.0023076430814254353
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.01662384766361269,
+            "mean_abs": 0.0037655559502142917
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.008552779784070985,
+            "mean_abs": 0.001340099648217245
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.01091227945821771,
+            "mean_abs": 0.0036628794022917272
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.03790232576863095,
+            "mean_abs": 0.005965631054135092
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 5,
+      "source_before": "57-5.json",
+      "source_after": "57-5_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38898,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 82,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 8.874
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.24163213297972086,
+          "max_abs": 3.940899234604949,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.020532319824982676,
+              "max_abs": 1.0242873063972342
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.04744839430780125,
+              "max_abs": 2.4019147371921337
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.1807252803973264,
+              "max_abs": 1.030852262669658
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.38597713005884154,
+              "max_abs": 3.940899234604949
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.2662884191677086,
+              "max_abs": 1.6958983869428577
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.3350266365189702,
+              "max_abs": 2.642241121163475
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.2667212433223084,
+              "max_abs": 1.5761483078153757
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.2360166510868877,
+              "max_abs": 1.9806628797310617
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.4359531221326612,
+              "max_abs": 2.7541493208669747
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.928215312722058,
+          "max_abs": 45.43093559734864,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.349924584341957,
+              "max_abs": 16.423165475347435
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.8090815163651269,
+              "max_abs": 37.5875138688755
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 2.1885223452194995,
+              "max_abs": 16.68337162735701
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 4.468289095901891,
+              "max_abs": 45.43093559734864
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 3.3149948316388205,
+              "max_abs": 32.629717996708024
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 4.053778230439565,
+              "max_abs": 25.631549850313036
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 2.9141527535708858,
+              "max_abs": 20.733622972175247
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 2.943502694575869,
+              "max_abs": 19.61050199036362
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 5.311691762444909,
+              "max_abs": 40.95204228505981
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.1219394181081096,
+          "max_abs": 3.9199999999996984,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.024573052190821714,
+              "max_abs": 3.111111111111659
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.06131897711979075,
+              "max_abs": 3.9199999999996984
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.0781576192612533,
+              "max_abs": 0.4088888888894863
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.1959144608942783,
+              "max_abs": 0.8533333333337186
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.09850755196650565,
+              "max_abs": 0.613333333333907
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.1675908479138759,
+              "max_abs": 0.871111111110488
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.1353790937640193,
+              "max_abs": 0.8844444444450773
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.1301211305518319,
+              "max_abs": 0.5644444444420536
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.20589202931060968,
+              "max_abs": 0.6711111111110424
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.098266280662952,
+          "max_abs": 132.14814814822978,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.1756014774886656,
+              "max_abs": 132.14814814822978
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.6683637815717574,
+              "max_abs": 68.44444444429249
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.6321253868462756,
+              "max_abs": 4.740740740752584
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.1959668563511912,
+              "max_abs": 7.703703703733711
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.9240291504464718,
+              "max_abs": 6.518518518559773
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 1.0789657582296461,
+              "max_abs": 4.444444444597895
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.850953379258836,
+              "max_abs": 9.185185185174753
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.9232305081540542,
+              "max_abs": 5.333333333497073
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.4351602276196698,
+              "max_abs": 10.962962962978409
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.050234788756299775,
+        "mean_abs_dev": 0.005919209790705566,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.010988863090565112,
+            "mean_abs": 0.00015950092147435957
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.02634424126708037,
+            "mean_abs": 0.0003834259949221152
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.028929814409694023,
+            "mean_abs": 0.0034137648317297234
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.049897676860315654,
+            "mean_abs": 0.010791693340549722
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.039014022594183906,
+            "mean_abs": 0.005564928047182095
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.031651872457000074,
+            "mean_abs": 0.006239156301071419
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.050234788756299775,
+            "mean_abs": 0.008253901078292852
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.0353958182692069,
+            "mean_abs": 0.00799016702480751
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.03727875586582352,
+            "mean_abs": 0.010476350576320298
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 6,
+      "source_before": "57-6.json",
+      "source_after": "57-6_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38891,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 107,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 11.271
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.18041580112204714,
+          "max_abs": 3.4144713184755275,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.09734332423046915,
+              "max_abs": 1.7414439156388721
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.08352889071578054,
+              "max_abs": 3.4144713184755275
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.12501736827475687,
+              "max_abs": 0.8568812137465596
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.2792274979024097,
+              "max_abs": 2.0717417870005566
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.1638141442227136,
+              "max_abs": 1.1460994081545992
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.22065187249180845,
+              "max_abs": 1.7496400797328833
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.16429066158348252,
+              "max_abs": 1.3670790743067287
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.18260674634764446,
+              "max_abs": 1.0857787691138372
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.30726170432935873,
+              "max_abs": 2.1255085180248314
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.3274578318352765,
+          "max_abs": 61.68954288921174,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.4324040511424074,
+              "max_abs": 27.810009125161407
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.4464971947967966,
+              "max_abs": 61.68954288921174
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.4730314532771076,
+              "max_abs": 10.663830911725377
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 3.5198574814643453,
+              "max_abs": 32.156617839840315
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 2.084489995208462,
+              "max_abs": 13.593158848745924
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 2.806961749001693,
+              "max_abs": 25.759959014807972
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 1.9978178605464103,
+              "max_abs": 16.253431581389215
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 2.4513785304162456,
+              "max_abs": 11.804135622959715
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 3.7346821706640165,
+              "max_abs": 19.76690887552137
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.12162037037037715,
+          "max_abs": 17.555555555557866,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.1351121794871801,
+              "max_abs": 17.555555555557866
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.12197115384615345,
+              "max_abs": 11.39111111111026
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.08660256410256725,
+              "max_abs": 0.32444444444440523
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.11855235042735651,
+              "max_abs": 0.6177777777782167
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.10168803418804344,
+              "max_abs": 0.3511111111103962
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.09862179487182138,
+              "max_abs": 0.39555555555367383
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.10249999999999757,
+              "max_abs": 0.4266666666661028
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.08195512820514689,
+              "max_abs": 0.333333333332039
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.24758012820512784,
+              "max_abs": 1.1288888888874415
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.236702272543229,
+          "max_abs": 1021.037037037387,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 8.891028212328106,
+              "max_abs": 1021.037037037387
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 6.062486072112897,
+              "max_abs": 759.4074074073218
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.5276997816121093,
+              "max_abs": 2.0740740740957238
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.8079511521214923,
+              "max_abs": 5.925925925999521
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.6289610910614637,
+              "max_abs": 2.666666666656611
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.7494763114671092,
+              "max_abs": 4.44444444441279
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.5847484066541695,
+              "max_abs": 2.9629629629324334
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.6688951286082556,
+              "max_abs": 3.85185185173005
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.2090742969234594,
+              "max_abs": 6.518518518223501
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.04731496851986505,
+        "mean_abs_dev": 0.0045945258205948095,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.029019745151715747,
+            "mean_abs": 0.002420008720467069
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.03258703503970008,
+            "mean_abs": 0.0004944634210399469
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.018277595156946644,
+            "mean_abs": 0.0031546491425723283
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.031069137313773254,
+            "mean_abs": 0.006068298632142877
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.023888775232081605,
+            "mean_abs": 0.0039106959894067705
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.018317047817620224,
+            "mean_abs": 0.004487873127908144
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.025782468288917948,
+            "mean_abs": 0.00461392959091527
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.026501640710517194,
+            "mean_abs": 0.007077132566521515
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.04731496851986505,
+            "mean_abs": 0.009123681194379358
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 7,
+      "source_before": "57-7.json",
+      "source_after": "57-7_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38894,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 115,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 12.666
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.18429485484328811,
+          "max_abs": 2.5065495481226647,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.026374932894680708,
+              "max_abs": 0.750950694637032
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.05804342445718096,
+              "max_abs": 2.244982854491405
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.15643041419170597,
+              "max_abs": 2.2040488971131764
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.28216901456596427,
+              "max_abs": 2.305616869140149
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.19798597927005424,
+              "max_abs": 2.229025689868741
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.23159391097018941,
+              "max_abs": 2.353263440706532
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.17983533951651756,
+              "max_abs": 1.452319605768407
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.2293322714700584,
+              "max_abs": 1.8209772595571727
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.2968884062532415,
+              "max_abs": 2.5065495481226647
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 2.2636915052632105,
+          "max_abs": 34.07212507521345,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.45790953060511796,
+              "max_abs": 12.997403256307733
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.8245398962468055,
+              "max_abs": 31.041580737134286
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 1.5753284842054143,
+              "max_abs": 29.675305560513827
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 3.5582927365232653,
+              "max_abs": 31.283553349311717
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 2.2611982811389035,
+              "max_abs": 30.01900231298207
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 2.860100021024147,
+              "max_abs": 21.085828408282723
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 1.9933613886312578,
+              "max_abs": 19.29204388923393
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.224970994794497,
+              "max_abs": 24.450028961984504
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 3.6175222141994863,
+              "max_abs": 34.07212507521345
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.10220482227194069,
+          "max_abs": 10.764444444444587,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.03632363907531891,
+              "max_abs": 3.880000000000045
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.0807158836689023,
+              "max_abs": 10.764444444444587
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.08883668903803292,
+              "max_abs": 0.5422222222222328
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.13156599552572648,
+              "max_abs": 0.4444444444446482
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.09796420581656431,
+              "max_abs": 0.34666666666658097
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.11988814317674701,
+              "max_abs": 0.4444444444454859
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.09815809097688509,
+              "max_abs": 0.457777777776915
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.09485458612976887,
+              "max_abs": 0.3244444444453812
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.17153616703952015,
+              "max_abs": 0.688888888888951
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.2485389217472282,
+          "max_abs": 717.6296296296332,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.917211328976288,
+              "max_abs": 258.66666666666754
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 4.053532524120611,
+              "max_abs": 717.6296296296332
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.5791472144427496,
+              "max_abs": 6.222222222223326
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.8958605664550587,
+              "max_abs": 4.74074074080855
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.6867102396532122,
+              "max_abs": 3.851851851832916
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.7170868347523889,
+              "max_abs": 3.5555555555426483
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.6408963585461943,
+              "max_abs": 2.962962962926934
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.7544351073922404,
+              "max_abs": 2.3703703706364174
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.9919701213863091,
+              "max_abs": 6.814814814846325
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.02260989604610364,
+        "mean_abs_dev": 0.002686436502312587,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.0038340172832342367,
+            "mean_abs": 7.520269265423853e-05
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.012343238416679819,
+            "mean_abs": 0.00023084681458144512
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.010096182980419421,
+            "mean_abs": 0.002084481017618563
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.018160295270149285,
+            "mean_abs": 0.004510492594997276
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.010907774603994384,
+            "mean_abs": 0.0028477528071279446
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.02260989604610364,
+            "mean_abs": 0.0034102494925226517
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.012501138542565349,
+            "mean_abs": 0.002758821861264219
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.014175287472356413,
+            "mean_abs": 0.003590866004289333
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.017090991107047038,
+            "mean_abs": 0.004669215235757609
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 8,
+      "source_before": "57-8.json",
+      "source_after": "57-8_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38895,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 85,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 8.971
+        }
+      }
+    },
+    {
+      "smoothness_before": {
+        "acceleration": {
+          "mean_abs": 0.22919118812781672,
+          "max_abs": 3.0873856260472943,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.07685764522406019,
+              "max_abs": 2.173818486409324
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.05758192328356668,
+              "max_abs": 2.768965909416607
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.1654649947165399,
+              "max_abs": 1.195252449425923
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.34176369907056386,
+              "max_abs": 3.0873856260472943
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.220105361031803,
+              "max_abs": 1.485181694897076
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.3264536065188232,
+              "max_abs": 1.671333902957617
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.17064091738370712,
+              "max_abs": 1.4123751572981729
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.2701451703103961,
+              "max_abs": 1.295545215371034
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.4337073756108904,
+              "max_abs": 2.862892608304807
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 3.173518417641541,
+          "max_abs": 43.27931691597419,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 1.359467916717995,
+              "max_abs": 32.13243456026398
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 1.1664131278166274,
+              "max_abs": 43.27931691597419
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 2.0712662195453224,
+              "max_abs": 12.877846516267622
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 4.513591076851002,
+              "max_abs": 42.33374738162152
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 3.033255712109787,
+              "max_abs": 24.953684364752274
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 4.40610427205376,
+              "max_abs": 23.221141352099743
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 2.2544577182508814,
+              "max_abs": 23.384893874069984
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 3.5166221241395164,
+              "max_abs": 18.273840630158823
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 6.240487591288978,
+              "max_abs": 26.328368643805142
+            }
+          }
+        }
+      },
+      "smoothness_after": {
+        "acceleration": {
+          "mean_abs": 0.11847190123457506,
+          "max_abs": 8.728888888888747,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 0.07632355555555675,
+              "max_abs": 3.6577777777775684
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 0.08050488888888876,
+              "max_abs": 8.728888888888747
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.08602311111111499,
+              "max_abs": 0.5688888888887982
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 0.16603022222223418,
+              "max_abs": 0.9022222222228281
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.10514488888888963,
+              "max_abs": 0.688888888888218
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.1419804444444552,
+              "max_abs": 0.5288888888877799
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.09858844444445092,
+              "max_abs": 1.01333333333279
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.12001422222224856,
+              "max_abs": 0.5822222222206631
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 0.19163733333333652,
+              "max_abs": 0.6977777777780524
+            }
+          }
+        },
+        "jerk": {
+          "mean_abs": 1.3806056769060386,
+          "max_abs": 581.9259259259288,
+          "per_joint": {
+            "franka/panda_finger_joint1": {
+              "mean_abs": 2.2383665717000083,
+              "max_abs": 58.3703703702734
+            },
+            "franka/panda_finger_joint2": {
+              "mean_abs": 3.7820512820514742,
+              "max_abs": 581.9259259259288
+            },
+            "franka/panda_joint1": {
+              "mean_abs": 0.5669515669534911,
+              "max_abs": 5.629629629675582
+            },
+            "franka/panda_joint2": {
+              "mean_abs": 1.1676163342875407,
+              "max_abs": 8.59259259275133
+            },
+            "franka/panda_joint3": {
+              "mean_abs": 0.7383665717057054,
+              "max_abs": 7.111111111176916
+            },
+            "franka/panda_joint4": {
+              "mean_abs": 0.9928774928884238,
+              "max_abs": 4.740740740747116
+            },
+            "franka/panda_joint5": {
+              "mean_abs": 0.7188983855673318,
+              "max_abs": 10.074074074051083
+            },
+            "franka/panda_joint6": {
+              "mean_abs": 0.8941120607831754,
+              "max_abs": 6.222222222344444
+            },
+            "franka/panda_joint7": {
+              "mean_abs": 1.3262108262171954,
+              "max_abs": 6.814814814853349
+            }
+          }
+        }
+      },
+      "position_deviation_joint": {
+        "max_abs_dev": 0.2968266783491141,
+        "mean_abs_dev": 0.005797208269954999,
+        "per_joint": {
+          "franka/panda_finger_joint1": {
+            "max_abs": 0.2968266783491141,
+            "mean_abs": 0.0021028866394572797
+          },
+          "franka/panda_finger_joint2": {
+            "max_abs": 0.1420042225274192,
+            "mean_abs": 0.0013806694028069308
+          },
+          "franka/panda_joint1": {
+            "max_abs": 0.03011310589961766,
+            "mean_abs": 0.003685482882642202
+          },
+          "franka/panda_joint2": {
+            "max_abs": 0.04535853256335576,
+            "mean_abs": 0.007775199214001669
+          },
+          "franka/panda_joint3": {
+            "max_abs": 0.03475588083845982,
+            "mean_abs": 0.005011053816444606
+          },
+          "franka/panda_joint4": {
+            "max_abs": 0.027126398990806155,
+            "mean_abs": 0.005971500596861393
+          },
+          "franka/panda_joint5": {
+            "max_abs": 0.03687630514725093,
+            "mean_abs": 0.006303437381764515
+          },
+          "franka/panda_joint6": {
+            "max_abs": 0.04357872297680876,
+            "mean_abs": 0.010239012166606807
+          },
+          "franka/panda_joint7": {
+            "max_abs": 0.04075131071812346,
+            "mean_abs": 0.00970563232900959
+          }
+        }
+      },
+      "removed_frames_ratio": 0.0,
+      "trajectory_index": 9,
+      "source_before": "57-9.json",
+      "source_after": "57-9_smoothed.json",
+      "file_trajectory_index": 0,
+      "meta_before": {
+        "attempt_id": 38892,
+        "trajectory_metadata": {
+          "task_id": 57,
+          "user_id": 63,
+          "frame_rate": 60.0,
+          "total_steps": 87,
+          "goal_achieved": true,
+          "sampling_rate": 50,
+          "simulation_time": 9.237
+        }
+      }
+    }
+  ]
+}
